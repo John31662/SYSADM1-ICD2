@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 3b94e4f869f24359b97230b6a4948f0e |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: John Ross S. Sabado        | DATE PERFORMED:        |          |
-|                                  | 8/29/2024              |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 8/29/2024              |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/4e3fc516-22c9-4684-819a-1c93900bb97d)
+
 
 # SYSADM1 -- Managing Services in Windows
 
