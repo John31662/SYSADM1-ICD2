@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 96e2f2511143402fbaac1a05625c5edb |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLO/GY                      |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: SABADO, John Ross S.       | DATE PERFORMED:        |  45/50   |
-|                                  | 8/22/24                |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 8/22/24                |          |
-+----------------------------------+------------------------+----------+
+![Uploading image.png…]()
+
 
 # SYSADM1 -- Introduction to File Systems in Windows and Linux
 
