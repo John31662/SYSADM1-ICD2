@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 9abd9a69c6a34896bbba41f720bcad2c |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: John Ross S. Sabado        | DATE PERFORMED:        |          |
-|                                  | 8/29/24                |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 8/29/24                |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/e563b7c6-cf1c-4b89-8ea5-91c6349e4bb0)
+
 
 # SYSADM1 -- Physical Infrastructure
 
