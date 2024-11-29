@@ -26,19 +26,18 @@
   -----------------------------------------------------------------------------------------------------------------------------------
   **Status**   **Name of Service**     **Screenshot**
   ------------ ----------------------- ----------------------------------------------------------------------------------------------
-  Start        DevicePicker_73b520     ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image2.png){width="2.229478346456693in"
-                                       height="1.9690244969378827in"}
+  Start        DevicePicker_73b520     ![image](https://github.com/user-attachments/assets/d017926a-c3dc-433a-ad6d-eacd97290173)
 
                                        
 
-  Stop         DevicePicker_73b520     ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image3.png){width="2.1982239720034995in"
-                                       height="1.9794433508311462in"}
+  Stop         DevicePicker_73b520     ![image](https://github.com/user-attachments/assets/23f66f25-8c3d-4335-af0d-88f75bbb82a2)
 
-  Restart      DevicePicker_73b520     ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image4.png){width="3.4242038495188103in"
-                                       height="1.7038888888888888in"}
 
-  Pause        Intel(R) Graphics       ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image5.png){width="3.4293832020997375in"
-               Command Center Service  height="3.4226443569553804in"}
+  Restart      DevicePicker_73b520     ![image](https://github.com/user-attachments/assets/35d6a2b0-73e2-4b47-9949-2c009291fca8)
+
+
+  Pause        Intel(R) Graphics       ![image](https://github.com/user-attachments/assets/5a4fd95e-c46c-499b-837d-1a5d8304baf1)
+
   -----------------------------------------------------------------------------------------------------------------------------------
 
 4.  Select five network services, right-click to view its properties.
