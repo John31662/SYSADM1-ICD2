@@ -44,17 +44,12 @@
     Modify the startup setting to Manual.
 
 > **SS**:
->
-> ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image6.png){width="2.4652121609798776in"
-> height="2.2741108923884514in"}![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image7.png){width="2.72123031496063in"
-> height="2.2584831583552054in"}
->
-> ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image8.png){width="3.3773589238845143in"
-> height="3.0499628171478563in"}![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image9.png){width="3.0593536745406826in"
-> height="2.9475240594925634in"}
->
-> ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image10.png){width="4.188083989501313in"
-> height="3.7401049868766405in"}
+> ![image](https://github.com/user-attachments/assets/0292b31f-a558-4da3-802f-878f1666d828)
+> ![image](https://github.com/user-attachments/assets/82cc2804-30ef-41ed-a47f-c70417b7c86b)
+> ![image](https://github.com/user-attachments/assets/366b9aa2-c3b3-48ae-b439-e05edfd1fe3a)
+
+
+
 
 5.  Explore the \"General\", \"Recovery\", and \"Log On\" tabs to
     understand additional service settings
@@ -62,8 +57,8 @@
 6.  Create a batch file that will be added as a new service later on.
     Refer to the batch file code below.
 
-> ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image11.png){width="4.808325678040245in"
-> height="2.0055664916885387in"}
+> ![image](https://github.com/user-attachments/assets/d5e35d1d-8735-48e0-ad10-6f246acfcd48)
+
 
 7.  Save the batch file in Z:\\lastname_timer.bat
 
@@ -82,8 +77,9 @@
 
 > **SS:**
 >
-> ![](vertopal_3b94e4f869f24359b97230b6a4948f0e/media/image12.png){width="5.365332458442695in"
-> height="0.3646347331583552in"}
+> ![image](https://github.com/user-attachments/assets/29c32cd9-8766-421c-baf7-05fc562a9b42)
+
+
 
 10. **Testing the Service:** Now, if you open a new command prompt, you
     should see the timer countdown without requiring your interaction.
