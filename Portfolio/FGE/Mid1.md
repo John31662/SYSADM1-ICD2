@@ -35,8 +35,8 @@
 
     -   Create an HTML file in the physical path you specified.
 
-> ![](vertopal_ddfd7a934a2c445cb2cf1547396c5930/media/image2.png){width="3.652083333333333in"
-> height="1.52377624671916in"}
+![image](https://github.com/user-attachments/assets/9244ea3d-5282-400b-9fa7-b97e4c5bf177)
+
 
 -   Save it as default.html or your preferred name.
 
@@ -76,29 +76,18 @@
 > **Screenshots:**
 >
 > **ISS installed**
->
-> ![](vertopal_ddfd7a934a2c445cb2cf1547396c5930/media/image3.png){width="5.95459208223972in"
-> height="4.845939413823272in"}
->
+![image](https://github.com/user-attachments/assets/e7d32b66-3767-42b3-8e80-4639246360a8)
+
 > **Website creation**
->
-> ![](vertopal_ddfd7a934a2c445cb2cf1547396c5930/media/image4.png){width="3.3546347331583553in"
-> height="0.8334492563429571in"}
->
+![image](https://github.com/user-attachments/assets/5c9cb794-3583-40ee-a0fc-6d64c83be54d)
+
 > **Web page file (on server)**
->
-> ![](vertopal_ddfd7a934a2c445cb2cf1547396c5930/media/image5.png){width="7.027083333333334in"
-> height="1.1729166666666666in"}
->
+![image](https://github.com/user-attachments/assets/583daa6f-ecc6-4d16-a4da-20ed651a525e)
+
 > **Default document**
->
-> ![](vertopal_ddfd7a934a2c445cb2cf1547396c5930/media/image6.png){width="3.5629975940507435in"
-> height="4.156829615048119in"}
->
+![image](https://github.com/user-attachments/assets/95aa54d8-0054-4e74-b67d-8a4cddf635a2)
+
 > **Web server testing**
->
-> ![](vertopal_ddfd7a934a2c445cb2cf1547396c5930/media/image7.png){width="5.269660979877515in"
-> height="3.9932556867891513in"}
->
-> ![](vertopal_ddfd7a934a2c445cb2cf1547396c5930/media/image8.png){width="6.782195975503062in"
-> height="3.135854111986002in"}
+![image](https://github.com/user-attachments/assets/40996b77-7f40-4fa7-a538-7ee435de72d9)
+
+![image](https://github.com/user-attachments/assets/e8505b8a-40b1-4125-af57-a5da294b4d6f)
