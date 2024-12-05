@@ -9,7 +9,7 @@ switch must be such that it does not become a choke point for all these VLANs. T
 when considering uplinks from layer 2 switches towards core devices; enough bandwidth should be 
 available so that no congestions occur at any time. Looking at the security of the network, it has no 
 firewalls or other security measures included into it. Therefore, if there is no proper policy implemented 
-or ACL in place then the network can easily get jeopardized by external oluses or internally among each other. 
+or ACL in place then the network can easily get jeopardized by external anomalies or internally among each other. 
 Another issue that may pose a growing hindrance to the scalability of this network occurs if Layer 2 switches 
 run out of ports or if an edge switch cannot handle an increased traffic load due to expansion in size for 
 example through the acquisition of additional sites by the organization. Additionally, the servers are standalone 
