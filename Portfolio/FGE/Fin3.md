@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 3ffee446401945219836ace5de0bd548 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: John Ross S. Sabado        | DATE PERFORMED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | 11/21/24               |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/558e6715-caaa-45a4-8b8b-10f0c20fd362)
+
 
 # SYSADM1 -- Git Basics
 
@@ -217,8 +204,8 @@ GitHub.
 
 -   **Step 5:** Push to Remote Repository
 
-![](vertopal_3ffee446401945219836ace5de0bd548/media/image2.png){width="7.027083333333334in"
-height="2.560416666666667in"}
+![image](https://github.com/user-attachments/assets/bbba14c8-c2d0-43a3-bf2b-d201907f14d8)
+
 
 -   To fix the above error : git remote add \<name\> \<GitLab Repository
     URL\>
@@ -229,13 +216,12 @@ height="2.560416666666667in"}
 
 -   **Step 7:** Obtain Access Token in GitLab
 
-> ![](vertopal_3ffee446401945219836ace5de0bd548/media/image3.png){width="5.646621828521435in"
-> height="3.969304461942257in"}
+![image](https://github.com/user-attachments/assets/22b226fa-0d22-427f-8acf-3baf6ad00974)
 
 -   **Step 8: **Push Your Code using the Gitlab user name and secrete.
 
-![](vertopal_3ffee446401945219836ace5de0bd548/media/image4.png){width="7.027083333333334in"
-height="3.44375in"}
+![Uploading image.png…]()
+
 
 9.  What are the steps to collaborate with others using GitLab or
     GitHub?
