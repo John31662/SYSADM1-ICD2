@@ -1,16 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 78805870695c4531ba8eb5215d9c7278 |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME: John Ross S. Sabado        | DATE PERFORMED:        | /50      |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/5dff3ca1-f266-4852-8311-93e2f54042a7)
+
 
 # SYSADM1 -- Platform Services
 
@@ -32,9 +21,9 @@
 
 2.  From the event viewer, explore the windows log and list down its
     major categories
+    
+![image](https://github.com/user-attachments/assets/cbbb6b40-62e3-448f-8580-1f38e772e7f4)
 
-![](vertopal_78805870695c4531ba8eb5215d9c7278/media/image2.png){width="7.027083333333334in"
-height="1.8604166666666666in"}
 
 **Part 2: Filtering and Analyzing IIS Events**
 
@@ -43,23 +32,18 @@ height="1.8604166666666666in"}
 
 > **Errors**
 
-![](vertopal_78805870695c4531ba8eb5215d9c7278/media/image3.png){width="7.027083333333334in"
-height="3.0409722222222224in"}
+![image](https://github.com/user-attachments/assets/49989681-ef5f-424d-853d-62cce7cc2e1f)
+
 
 **Warnings**
 
-![](vertopal_78805870695c4531ba8eb5215d9c7278/media/image4.png){width="6.097857611548556in"
-height="3.1426356080489937in"}
+![image](https://github.com/user-attachments/assets/51bf52db-b137-4c12-bfc9-16a1d2aacc78)
 
-2.  ![](vertopal_78805870695c4531ba8eb5215d9c7278/media/image5.png){width="5.672916666666667in"
-    height="2.3604166666666666in"}**Identify Critical Events** or
-    recurring events.
+2.  ![image](https://github.com/user-attachments/assets/261805f0-39c6-4aa2-b39e-af7cac33d007)
 
-![](vertopal_78805870695c4531ba8eb5215d9c7278/media/image6.png){width="7.021813210848644in"
-height="2.3961679790026245in"}
 
-![](vertopal_78805870695c4531ba8eb5215d9c7278/media/image7.png){width="7.027083333333334in"
-height="1.1694444444444445in"}
+![image](https://github.com/user-attachments/assets/4ea1ebd9-f2e9-464f-bdae-381e9aec8183)
+
 
 No critical errors but basing on the screenshot on item one the
 recurring events would be event ID no. 1001 as basing it on the time
