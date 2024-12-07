@@ -10,3 +10,4 @@ there updated the folder with the picture of our topology for activity part 2
 
 will finish everything tomorrow ill submit here the final midterms and tommorw all final activities
 
+just notieced that i dint change the commit messages been putting messages on the extended comment not on the main
